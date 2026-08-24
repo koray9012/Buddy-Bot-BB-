@@ -112,7 +112,7 @@ The code can be found in repo: Engineering Helper Robot Code
 | L298N Motor Driver | 1 | 4.60 USD | https://elimex.bg/product/71197-kit-k2010-drayver-za-postoyannotokovi-motori |
 | 0.96 Oled Display | 1 | 5.60 USD | https://www.ardboard.com/index.php?route=product/product&product_id=264&search=oled |
 | K2272 Relay Module | 1 | 2.50 USD | https://elimex.bg/product/86303-kit-k2272-modul-s-edno-rele-aktivno-nivo-visoko |
-| Sound Sensor Module | 1 | 1.80 USD | https://www.ardboard.com/index.php?route=product/product&product_id=312 |
+| Sound Sensor Module | 1 | 1.80 USD | https://elimex.bg/product/74804-kit-k2066-zvukov-senzor-v3 |
 | Car Chasis | 1 | 20.93 USD | https://elimex.bg/product/84826-shasi-za-robot-4wd-s-4-motora-i-2-osnovi-kit-za-sglobqvane |
 | 18650 Battery | 2 | 5.77 USD x2 = 11.54 USD | https://elimex.bg/product/85664-akumulator-3.7v-3400mah-lc18650-lava |
 | Battery holder | 4 | 0.28 USD x4 = 1.12 USD | https://elimex.bg/product/77722-battery-holder-lc18650 |
