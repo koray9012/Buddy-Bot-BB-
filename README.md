@@ -119,7 +119,7 @@ The code can be found in repo: Engineering Helper Robot Code
 | 2S BMS | 1 | 1.52 USD | https://elimex.bg/product/77415-bsmpcm-kontroler-za-zaryada-i-razryada-na-li-ion-paket-2x18650-7-4v-8-4v3a |
 | Power Switch | 1 | 0.35 USD | https://elimex.bg/product/44024-switch-smrs101-1-black | 
 | DC Motors | 4 | 2.27 USD x4 = 9.08 USD | https://elimex.bg/product/79622-kit-k2178-postoyannotokov-motor-za-robo-platforma |
-| Solder Fume Fan | 1 | 4.50 USD | https://elimex.bg/product/89100-mini-fan-5v |
+| Solder Fume Fan | 1 | 1.73 USD | https://elimex.bg/product/66698-ventilator-dicom-rqd4010ms-12vdc-40x40x10mm-s-vtulka |
 | Jumper Cables | ~30 | 2.86 USD + 2.27 USD = 5.13 USD | https://elimex.bg/product/75823-komplekt-provodnitsi-40-broya-s-konektori-mazhki-zhenski-30sm AND  https://elimex.bg/product/74894-komplekt-provodnitsi-40-broya-s-konektori-mazhki-mazhki-20sm |
 
 ## Very important: The motors came with the chasis because they are a kit and also the cables arent exacly 30 bc i cut them up and soldered them 
