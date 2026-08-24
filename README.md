@@ -1,6 +1,6 @@
                                   Engineer's friend Buddy bot (BB)
                                           By Koray                                                                                                  
-![image alt](https://github.com/koray9012/Engineering-Helper-Robot/blob/main/15409.jpg?raw=true)
+[!image](https://raw.githubusercontent.com/koray9012/Buddy-Bot-BB-/refs/heads/main/20260815_213051.jpg)
 An interactive ESP32 workbench assistant featuring an onboard solder fume extractor fan, ESP32-CAM visual monitoring, sound-activated sequences, and expression animations. 
 It brings personality to your workspace while driving up to clear soldering fumes on command so you don't look like you're working with just a plain piece of silicon.
 
