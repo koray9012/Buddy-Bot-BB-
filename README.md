@@ -124,7 +124,7 @@ The code can be found in repo: Engineering Helper Robot Code
 
 ## Very important: The motors came with the chasis because they are a kit and also the cables arent exacly 30 bc i cut them up and soldered them 
 
-## Video for BB demo ()
+## Video for BB demo (https://youtu.be/co7IHJqg88E)
 
 ## Credits: 
 
