@@ -72,6 +72,8 @@ I integrated an ESP32-CAM for inspection alongside a sound sensor module with cu
 
 It started as a simple relay-trigger test, but turned into a full-on crash course in power rail stabilization, back-EMF spike isolation, C++ non-blocking state machines, and hardware integration and i plan to upgrade it constantly and one day to make it absolutely perfect.
 
+![image](
+
 ### Wiring & Connections:
 
 Below is the visual schematic diagram for Buddy bot the engineer's friend (BB).
