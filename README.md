@@ -76,7 +76,7 @@ It started as a simple relay-trigger test, but turned into a full-on crash cours
 
 Below is the visual schematic diagram for Buddy bot the engineer's friend (BB).
 
-![image](https://github.com/koray9012/Engineering-Helper-Robot/blob/main/%D0%95%D0%BA%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%20%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B0%202026-07-29%20005514.png?raw=true)
+![image](https://github.com/koray9012/Buddy-Bot-BB-/blob/main/%D0%95%D0%BA%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%20%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B0%202026-08-24%20124552.png?raw=true)
 
 ### Pinout Breakdown:
 
