@@ -108,7 +108,7 @@ The code can be found in repo: Engineering Helper Robot Code
 | Item | Quantity | Price (USD) | Link |
 | :--- | :--- | :--- | :--- |
 | Esp32 38 pins | 1 | 8.68 USD | https://www.ardboard.com/index.php?route=product/product&product_id=413 |
-| ESP32-CAM Module | 1 | 9.50 USD | https://www.ardboard.com/index.php?route=product/product&product_id=380 |
+| ESP32-CAM Module | 1 | 9.50 USD | https://www.ardboard.com/index.php?route=product/product&product_id=273&search=Cam |
 | L298N Motor Driver | 1 | 4.60 USD | https://elimex.bg/product/71197-kit-k2010-drayver-za-postoyannotokovi-motori |
 | 0.96 Oled Display | 1 | 5.60 USD | https://www.ardboard.com/index.php?route=product/product&product_id=264&search=oled |
 | K2272 Relay Module | 1 | 2.50 USD | https://elimex.bg/product/71234-kit-k2272-releen-modul |
